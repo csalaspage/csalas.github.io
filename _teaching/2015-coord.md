@@ -1,7 +1,7 @@
 ---
 title: "Music Precollege Program Coordinator, 2015 – 2019"
 collection: teaching
-type: "Group piano"
+type: "Program coordinator"
 permalink: /teaching/2019-coord
 venue: "School of Music; Universidad de Costa Rica"
 date: 2015-08-15
