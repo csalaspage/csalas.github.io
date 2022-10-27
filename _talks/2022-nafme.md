@@ -7,4 +7,4 @@ venue: "NAfME National Conference"
 date: 2022-11-02
 location: "Washington, D.C."
 ---
-<img src="files/IMG_2048.jpg" alt="A multiple case study of adolescent piano students: examining motivation through the lens of Interest Development">
+<img src="/files/POSTER 1.pdf" alt="A multiple case study of adolescent piano students: examining motivation through the lens of Interest Development">
