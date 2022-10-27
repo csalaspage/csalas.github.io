@@ -7,3 +7,5 @@ venue: "NAfME National Conference"
 date: 2022-11-02
 location: "Washington, D.C."
 ---
+
+[Download poster](https://drive.google.com/file/d/1wE7M2pCZT-RjPfEkKgRQfofDQ6mrtjCz/view?usp=sharing)
