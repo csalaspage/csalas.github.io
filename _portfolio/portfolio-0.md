@@ -1,6 +1,6 @@
 ---
 title: "Recent performance"
-excerpt: "<br/><img src='/images/20230226-DSC_2314.jpg'>"
+excerpt: "Four Seasons of Buenos Aires, Astor Piazolla'>"
 collection: portfolio
 ---
 
