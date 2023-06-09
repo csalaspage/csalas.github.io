@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Carla Salas-Ruiz"
 title_separator          : "-"
-name                     : &name "Dr. Carla Salas-Ruiz"
+name                     : &name "Carla Salas-Ruiz"
 description              : &description "PhD. in music education, emphasis in piano pedagogy"
 url                      : https://csalaspage.github.io/csalas.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Carla L. Salas-Ruiz"
+  name             : "Dr. Carla Salas-Ruiz"
   avatar           : "profile.jpg"
   bio              : "PhD. in music education, emphasis in piano pedagogy"
   location         : "Pearland, Texas, US"
