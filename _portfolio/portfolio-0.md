@@ -1,10 +1,10 @@
 ---
-title: "Recent performance"
-excerpt: "Four Seasons of Buenos Aires, Astor Piazolla'>"
+title: "Four Seasons of Buenos Aires, Astor Piazolla"
+excerpt: " "
 collection: portfolio
 ---
 
-Four Seasons of Buenos Aires, Astor Piazolla
+
 ======
 Tango is a music genre scarcely explored in classical performance in programs around the United States. A sensual and dramatic dance, tango was heavily influenced by Argentinean composers like Carlos Gardel, Vicente Greco, and Astor Piazolla. This music was very popular and usually performed in dance halls and tango clubs around Buenos Aires during the late 1800s and early 1900s.   
 
