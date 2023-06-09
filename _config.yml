@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Carla L. Salas-Ruiz"
 title_separator          : "-"
 name                     : &name "Carla Salas-Ruiz"
-description              : &description "Ph.D. Candidate"
+description              : &description "PhD. in music education, emphasis in piano pedagogy"
 url                      : https://csalaspage.github.io/csalas.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Carla L. Salas-Ruiz"
-  avatar           : "profile.png"
-  bio              : "Ph.D. Candidate at LSU"
-  location         : "Baton Rouge, LA, US"
+  avatar           : "profile.jpgg"
+  bio              : "PhD. in music education, emphasis in piano pedagogy"
+  location         : "Pearland, Texas, US"
   employer         : #"https://faculty.lsu.edu/trmg/people.php"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=qQCeHIcAAAAJ&hl=es&oi=ao"
+  email            : "carla.saruiz@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
