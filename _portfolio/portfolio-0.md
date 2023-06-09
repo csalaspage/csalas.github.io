@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-======
+<!-- ====== -->
 Tango is a music genre scarcely explored in classical performance in programs around the United States. A sensual and dramatic dance, tango was heavily influenced by Argentinean composers like Carlos Gardel, Vicente Greco, and Astor Piazolla. This music was very popular and usually performed in dance halls and tango clubs around Buenos Aires during the late 1800s and early 1900s.   
 
 Astor Piazolla (1921-1992) was known for revolutionizing the tango genre and giving rise to the “Nuevo Tango.” Some musical features that distinguished his compositions were the inclusion of musical elements of American Jazz and Classical music.  The Four Seasons of Buenos Aires are a set of four works including Spring, Summer, Fall, and Winter, originally arranged for piano, electric guitar, violin, double bass, and bandoneon. Spanning five years between the first and the last piece, Astor Piazolla composed them separately, and the pieces were not intended to be played together as a set.  
