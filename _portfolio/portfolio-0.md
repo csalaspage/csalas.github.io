@@ -1,14 +1,26 @@
 ---
-title: "C.A.S.A."
-excerpt: "<br/><img src='/images/casa.png'>"
+title: "Recent performance"
+excerpt: "<br/><img src='/images/20230226-DSC_2314.jpg'>"
 collection: portfolio
 ---
 
-C.A.S.A.: Collaborative Approach for Student Activities
+Cuatro Estaciones Porteñas, Astor Piazolla
 ======
-Building on motivation and gamification theories, my colleague Sarah Jenkins and I introduced C.A.S.A. (Collaborative Approach for Student Activities - A home for collegiate group piano) during Fall 2022 to encourage student autonomy and to provide collegiate group piano teachers with additional resources. C.A.S.A. is an online open access database of activities based on three essential functional skills taught in accredited music programs in the USA and Canada: (1) harmonization, (2) sight-reading, and (3) improvisation.  Using C.A.S.A. as a game, we were able to encourage student collaboration through competition, to increase practice time through incentives, and to foster reflection through group discussion. We provided extrinsic and intrinsic motivation through competition, inexpensive material rewards, and recognition. Ideally, C.A.S.A. intends to be an open access repository for group piano teachers around the world. 
+Tango is a music genre scarcely explored in classical performance in programs around the United States. A sensual and dramatic dance, tango was heavily influenced by Argentinean composers like Carlos Gardel, Vicente Greco, and Astor Piazolla. This music was very popular and usually performed in dance halls and tango clubs around Buenos Aires during the late 1800s and early 1900s.   
 
-[C.A.S.A. Website](https://www.casagrouppiano.com)
+Astor Piazolla (1921-1992) was known for revolutionizing the tango genre and giving rise to the “Nuevo Tango.” Some musical features that distinguished his compositions were the inclusion of musical elements of American Jazz and Classical music.  The Four Seasons of Buenos Aires are a set of four works including Spring, Summer, Fall, and Winter, originally arranged for piano, electric guitar, violin, double bass, and bandoneon. Spanning five years between the first and the last piece, Astor Piazolla composed them separately, and the pieces were not intended to be played together as a set.  
+
+In this program, each movement is a combination of fast and slow sections. The rhythmic sections are energetic and, in many cases, contrapuntal. The slow sections are melancholic, and they have an improvisatory character. We learned tango specifics regarding improvisatory rhythms and simple yet highly dissonant and emotional phrases. Also, we explored a diversity of sonorities and tone qualities that differ from the classical-trained tone qualities. We implemented percussive rhythms in the cello and the violin to provide a vibrant interpretation of the work. 
+
+[Spring:](https://youtu.be/9bhZKCwkO5c)
+
+[Summer:](https://youtu.be/dzSUOdi59WE)
+
+[Fall:](https://youtu.be/xMZooRKCNB8 )
+
+[Winter:](https://youtu.be/tsjV7PI3Ihk)
+
+
 
 
 
