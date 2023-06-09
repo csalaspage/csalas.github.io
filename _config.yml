@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carla L. Salas-Ruiz"
+title                    : "Carla Salas-Ruiz"
 title_separator          : "-"
-name                     : &name "Carla Salas-Ruiz"
+name                     : &name "Dr. Carla Salas-Ruiz"
 description              : &description "PhD. in music education, emphasis in piano pedagogy"
 url                      : https://csalaspage.github.io/csalas.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
