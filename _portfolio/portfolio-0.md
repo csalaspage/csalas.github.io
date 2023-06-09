@@ -18,7 +18,7 @@ In this program, each movement is a combination of fast and slow sections. The r
 
 [Fall](https://youtu.be/xMZooRKCNB8 )
 
-[Winter:](https://youtu.be/tsjV7PI3Ihk)
+[Winter](https://youtu.be/tsjV7PI3Ihk)
 
 
 
