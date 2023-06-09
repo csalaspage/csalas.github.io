@@ -4,7 +4,7 @@ excerpt: "<br/><img src='/images/20230226-DSC_2314.jpg'>"
 collection: portfolio
 ---
 
-Cuatro Estaciones Porteñas, Astor Piazolla
+Four Seasons of Buenos Aires, Astor Piazolla
 ======
 Tango is a music genre scarcely explored in classical performance in programs around the United States. A sensual and dramatic dance, tango was heavily influenced by Argentinean composers like Carlos Gardel, Vicente Greco, and Astor Piazolla. This music was very popular and usually performed in dance halls and tango clubs around Buenos Aires during the late 1800s and early 1900s.   
 
@@ -12,11 +12,11 @@ Astor Piazolla (1921-1992) was known for revolutionizing the tango genre and giv
 
 In this program, each movement is a combination of fast and slow sections. The rhythmic sections are energetic and, in many cases, contrapuntal. The slow sections are melancholic, and they have an improvisatory character. We learned tango specifics regarding improvisatory rhythms and simple yet highly dissonant and emotional phrases. Also, we explored a diversity of sonorities and tone qualities that differ from the classical-trained tone qualities. We implemented percussive rhythms in the cello and the violin to provide a vibrant interpretation of the work. 
 
-[Spring:](https://youtu.be/9bhZKCwkO5c)
+[Spring](https://youtu.be/9bhZKCwkO5c)
 
-[Summer:](https://youtu.be/dzSUOdi59WE)
+[Summer](https://youtu.be/dzSUOdi59WE)
 
-[Fall:](https://youtu.be/xMZooRKCNB8 )
+[Fall](https://youtu.be/xMZooRKCNB8 )
 
 [Winter:](https://youtu.be/tsjV7PI3Ihk)
 
