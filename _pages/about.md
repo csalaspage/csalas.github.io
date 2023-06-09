@@ -12,6 +12,8 @@ I am a pianist, teacher, and researcher with a Ph.D. in Music Education with emp
 
 As an educator, I work on being comfortable recognizing my privileges, strengths, and weaknesses in hopes that it will foster the same abilities in my students and allow them to be engaged with their learning processes. As a music education/piano teacher, I strive to achieve a profound understanding and level of reflection about music education, performance, and piano pedagogy.
 
+[Curriculum Vitae](https://drive.google.com/file/d/18OzrBSHt6VC9fthiE9b1cia6SInBI6i-/view?usp=sharing)
+
 Areas of interest
 ======
 1. Piano pedagogy
